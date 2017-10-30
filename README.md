@@ -7,6 +7,8 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/machine-learning-with-apache-spark.html
 
+https://www.tertiarycourses.com.my/machine-learning-with-apache-spark-malaysia.html
+
 <p><strong>Module 1: Get Started on Apache Spark</strong></p>
 <ul>
 <li>What is Apache Spark</li>
